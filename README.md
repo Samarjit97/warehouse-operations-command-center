@@ -5,15 +5,6 @@ An executive-level Power BI reporting solution designed to bridge physical wareh
 ---
 
 ## 🖥️ Dashboard Previews
-
-### Page 1: Operational Command Center
-![Operations Dashboard](dashboard_operations.png)
-
-### Page 2: Annual Financial Performance
-![Financial Dashboard](dashboard_financial.png)
-
----
-
 ## 🎯 Business Objectives & Problem Statement
 * **Siloed Reporting:** Warehouse physical volume and financial revenue were tracked across disconnected systems.
 * **Workforce Visibility:** High-strain cold storage environments lacked isolated tracking against company illness thresholds.
